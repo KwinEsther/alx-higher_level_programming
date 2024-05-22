@@ -2,4 +2,4 @@
 str = "Python is an interpreted, interactive, object-oriented programming\
  language that combines remarkable power with very clear syntax"
 str = str[39:-62] + str[107:-18] + " " + str[:6] #object-oriented programming with Python
-print(str)
+print(f(str))
